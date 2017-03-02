@@ -1,0 +1,8 @@
+{
+  "engine_type": "prebuilt",
+  "engine_version": "1.4.0-lite",
+  "has_native": true,
+  "project_type": "js",
+  "projectName": "hello_world",
+  "packageName": "org.cocos2d.helloworld"
+}

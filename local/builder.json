@@ -1,0 +1,18 @@
+{
+  "androidStudio": false,
+  "apiLevel": "",
+  "appABIs": [],
+  "buildPath": "./build",
+  "debug": true,
+  "keystoreAlias": "",
+  "keystoreAliasPassword": "",
+  "keystorePassword": "",
+  "keystorePath": "",
+  "platform": "win32",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "sourceMaps": false,
+  "template": "binary",
+  "useDebugKeystore": true,
+  "vsVersion": "2015"
+}
